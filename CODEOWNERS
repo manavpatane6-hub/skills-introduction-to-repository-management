@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @manavpatane6-hub
+/src/backend/database.py      @manavpatane6-hub
+/src/backend/routers/auth.py  @manavpatane6-hub
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @manavpatane6-hub
